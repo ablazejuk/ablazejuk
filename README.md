@@ -1,5 +1,7 @@
 # Andrey Blazejuk
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fablazejuk%2Fhit-counter&count_bg=%23122CDB&title_bg=%23030303&icon=github.svg&icon_color=%23FEFEFE&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Badges
 
 [![An image of @ablazejuk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ablazejuk)](https://holopin.io/@ablazejuk)
