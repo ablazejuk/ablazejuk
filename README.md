@@ -1,4 +1,8 @@
-## Hi there 👋
+# Andrey Blazejuk
+
+## Badges
+
+[![An image of @ablazejuk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ablazejuk)](https://holopin.io/@ablazejuk)
 
 <!--
 **ablazejuk/ablazejuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
